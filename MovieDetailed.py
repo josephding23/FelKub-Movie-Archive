@@ -71,6 +71,7 @@ class MovieDetailedInfo(QMainWindow):
         self.rightFrame = QFrame()
 
         self.genresInfo = '类型: ' + ', '.join(self.info['Genres'])
+
         self.genresLabel = QLabel('类型: ')
         self.genresBox = QHBoxLayout()
         self.genresBox.setAlignment(Qt.AlignLeft)
@@ -190,7 +191,7 @@ class MovieDetailedInfo(QMainWindow):
             starBtn = QPushButton(self.starringList[i])
 
             if self.starringList[i] not in self.info['ValidStarring']:
-                starBtn.setCursor(QCursor(Qt.ForbiddenCursor))
+                starBtn.setCursor(QCursor(Qt.For8biddenCursor))
                 # starBtn.setDisabled(True)
                 starBtn.setStyleSheet(
                     'QPushButton{background-color:#8B7355; color:#FFE7BA; font-family:"楷体"; font-size: 19px;}')

@@ -3,26 +3,26 @@ import pymongo
 from math import pow, sqrt
 
 def get_movies_collection():
-    # client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
-    client = MongoClient()
+    client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
+    # client = MongoClient()
     movies = client.felkub.movies
     return movies
 
 def get_directors_collection():
-    # client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
-    client = MongoClient()
+    client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
+    # client = MongoClient()
     directors = client.felkub.directors
     return directors
 
 def get_genres_collection():
-    # client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
-    client = MongoClient()
+    client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
+    # client = MongoClient()
     genres = client.felkub.genres
     return genres
 
 def get_starring_collection():
-    # client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
-    client = MongoClient()
+    client = MongoClient('mongodb://joseph:live199823@cluster0-shard-00-00-w30lz.mongodb.net:27017,cluster0-shard-00-01-w30lz.mongodb.net:27017,cluster0-shard-00-02-w30lz.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true')
+    # client = MongoClient()
     stars = client.felkub.starring
     return stars
 
