@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FelKubArchive$Main.coverage" NAME="Main Coverage Results" MODIFIED="1553440651367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FelKubArchive$Main.coverage" NAME="Main Coverage Results" MODIFIED="1555029454773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FelKubArchive$DataQuery.coverage" NAME="DataQuery Coverage Results" MODIFIED="1551602764888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FelKubArchive$GenreEditPage.coverage" NAME="GenreEditPage Coverage Results" MODIFIED="1550825102437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FelKubArchive$MoviesArchive.coverage" NAME="MoviesArchive Coverage Results" MODIFIED="1551447797449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -64,9 +64,10 @@
     <session id="-1822659580">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="2" />
@@ -75,32 +76,37 @@
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="py" value="18788" />
+          <entry key="md" value="467" />
+          <entry key="py" value="18882" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="467" />
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="18788" />
+          <entry key="Python" value="18882" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="30" />
+          <entry key="md" value="1" />
+          <entry key="py" value="33" />
           <entry key="spec" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="30" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
     </session>
@@ -108,58 +114,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DirectorsPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5598">
-              <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
-              <folding>
-                <element signature="e#15#151#0" expanded="true" />
-                <marker date="1551582201157" expanded="true" signature="3705:3714" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MovieDetailed.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
-              <folding>
-                <element signature="e#15#131#0" expanded="true" />
-                <marker date="1553423643511" expanded="true" signature="13333:13835" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DirectorDetailed.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="73" column="65" selection-start-line="73" selection-start-column="65" selection-end-line="73" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#103#0" expanded="true" />
-                <marker date="1551573212794" expanded="true" signature="253:254" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MoviesPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
-              <caret line="77" column="59" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
-              <folding>
-                <element signature="e#15#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MoviesArchive.py">
+        <entry file="file://$PROJECT_DIR$/src/MoviesArchive.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1368">
               <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
@@ -171,7 +126,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StarDetailed.py">
+        <entry file="file://$PROJECT_DIR$/src/StarDetailed.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="27" selection-start-column="27" selection-end-column="27" />
@@ -180,53 +135,95 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RecommenderPage.py">
+        <entry file="file://$PROJECT_DIR$/src/RecommenderPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3708">
-              <caret line="211" column="40" selection-start-line="211" selection-start-column="40" selection-end-line="211" selection-end-column="40" />
+            <state relative-caret-position="301">
+              <caret line="265" column="72" selection-start-line="265" selection-start-column="48" selection-end-line="265" selection-end-column="72" />
               <folding>
-                <element signature="e#0#119#0" expanded="true" />
-                <marker date="1551608579638" expanded="true" signature="4229:7413" ph="..." />
-                <marker date="1551608579638" expanded="true" signature="7448:7449" ph="..." />
+                <marker date="1554989729723" expanded="true" signature="4243:7427" ph="..." />
+                <marker date="1554989729723" expanded="true" signature="7462:7463" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TraitsEdit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2016">
-              <caret line="116" column="51" selection-start-line="115" selection-start-column="8" selection-end-line="116" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataQuery.py">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenresPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            <state relative-caret-position="301">
+              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TraitsEdit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="116" column="51" selection-start-line="115" selection-start-column="8" selection-end-line="116" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <marker date="1553436291978" expanded="true" signature="7148:7153" ph="..." />
-                <marker date="1553436291978" expanded="true" signature="7317:7322" ph="..." />
-                <marker date="1553436291978" expanded="true" signature="7797:7802" ph="..." />
-                <marker date="1553436291978" expanded="true" signature="12103:12108" ph="..." />
-                <marker date="1553436291978" expanded="true" signature="12439:13059" ph="..." />
-                <marker date="1553436291978" expanded="true" signature="13353:13358" ph="..." />
+                <marker date="1554988936843" expanded="true" signature="7147:7152" ph="..." />
+                <marker date="1554988936843" expanded="true" signature="7316:7321" ph="..." />
+                <marker date="1554988936843" expanded="true" signature="7796:7801" ph="..." />
+                <marker date="1554988936843" expanded="true" signature="12102:12107" ph="..." />
+                <marker date="1554988936843" expanded="true" signature="12438:13058" ph="..." />
+                <marker date="1554988936843" expanded="true" signature="13352:13357" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StarringPage.py">
+        <entry file="file://$PROJECT_DIR$/src/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4338">
+            <state relative-caret-position="99">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StarringPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4428">
               <caret line="246" column="52" selection-start-line="246" selection-start-column="52" selection-end-line="246" selection-end-column="52" />
               <folding>
                 <element signature="e#15#151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DirectorsPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3047">
+              <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
+              <folding>
+                <element signature="e#15#151#0" expanded="true" />
+                <marker date="1554988938299" expanded="true" signature="3713:3722" ph="..." />
               </folding>
             </state>
           </provider>
@@ -271,6 +268,11 @@
         <option value="$PROJECT_DIR$/RecommenderPage.py" />
         <option value="$PROJECT_DIR$/MovieDetailed.py" />
         <option value="$PROJECT_DIR$/DataQuery.py" />
+        <option value="$PROJECT_DIR$/src/DataQuery.py" />
+        <option value="$PROJECT_DIR$/src/MovieDetailed.py" />
+        <option value="$PROJECT_DIR$/src/RecommenderPage.py" />
+        <option value="$PROJECT_DIR$/src/GenresPage.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -316,6 +318,22 @@
               <item name="pic" type="462c0819:PsiDirectoryNode" />
               <item name="movies" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -328,6 +346,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\FelKubArchive\screenshots\videos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\FelKubArchive\screenshots\pic" />
+      <recent name="D:\PycharmProjects\FelKubArchive\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -355,7 +382,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataQuery.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\DataQuery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,7 +404,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\TraitsEdit.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\TraitsEdit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,7 +426,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,7 +448,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MoviesArchive.py" />
+      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\MoviesArchive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -462,12 +489,12 @@
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11497731" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28548387" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32419354" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,53 +565,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled.ui" />
     <entry file="file://$PROJECT_DIR$/untitled.py" />
-    <entry file="file://$PROJECT_DIR$/AdvancedSearch.py">
+    <entry file="file://$PROJECT_DIR$/src/AdvancedSearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="715">
           <caret line="161" column="53" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GenresPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="41" column="102" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main.spec">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
+    <entry file="file://$PROJECT_DIR$/src/MovieDetailed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DirectorsPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5598">
-          <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
+        <state relative-caret-position="3258">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
           <folding>
-            <element signature="e#15#151#0" expanded="true" />
-            <marker date="1551582201157" expanded="true" signature="3705:3714" ph="..." />
+            <element signature="e#15#131#0" expanded="true" />
+            <marker date="1554989399337" expanded="true" signature="13341:13843" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DirectorDetailed.py">
+    <entry file="file://$PROJECT_DIR$/src/DirectorDetailed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="73" column="65" selection-start-line="73" selection-start-column="65" selection-end-line="73" selection-end-column="65" />
+        <state relative-caret-position="1278">
+          <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
           <folding>
             <element signature="e#0#103#0" expanded="true" />
-            <marker date="1551573212794" expanded="true" signature="253:254" ph="..." />
+            <marker date="1554988939023" expanded="true" signature="263:264" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoviesPage.py">
+    <entry file="file://$PROJECT_DIR$/src/MoviesPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="77" column="59" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
@@ -594,7 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoviesArchive.py">
+    <entry file="file://$PROJECT_DIR$/src/MoviesArchive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
           <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
@@ -604,35 +617,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StarDetailed.py">
+    <entry file="file://$PROJECT_DIR$/src/StarDetailed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecommenderPage.py">
+    <entry file="file://$PROJECT_DIR$/src/DataQuery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3708">
-          <caret line="211" column="40" selection-start-line="211" selection-start-column="40" selection-end-line="211" selection-end-column="40" />
+        <state relative-caret-position="378">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
-            <element signature="e#0#119#0" expanded="true" />
-            <marker date="1551608579638" expanded="true" signature="4229:7413" ph="..." />
-            <marker date="1551608579638" expanded="true" signature="7448:7449" ph="..." />
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1554988936843" expanded="true" signature="7147:7152" ph="..." />
+            <marker date="1554988936843" expanded="true" signature="7316:7321" ph="..." />
+            <marker date="1554988936843" expanded="true" signature="7796:7801" ph="..." />
+            <marker date="1554988936843" expanded="true" signature="12102:12107" ph="..." />
+            <marker date="1554988936843" expanded="true" signature="12438:13058" ph="..." />
+            <marker date="1554988936843" expanded="true" signature="13352:13357" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TraitsEdit.py">
+    <entry file="file://$PROJECT_DIR$/src/StarringPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="116" column="51" selection-start-line="115" selection-start-column="8" selection-end-line="116" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StarringPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4338">
+        <state relative-caret-position="4428">
           <caret line="246" column="52" selection-start-line="246" selection-start-column="52" selection-end-line="246" selection-end-column="52" />
           <folding>
             <element signature="e#15#151#0" expanded="true" />
@@ -640,30 +650,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MovieDetailed.py">
+    <entry file="file://$PROJECT_DIR$/src/DirectorsPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="-3047">
+          <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
           <folding>
-            <element signature="e#15#131#0" expanded="true" />
-            <marker date="1553423643511" expanded="true" signature="13333:13835" ph="..." />
+            <element signature="e#15#151#0" expanded="true" />
+            <marker date="1554988938299" expanded="true" signature="3713:3722" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataQuery.py">
+    <entry file="file://$PROJECT_DIR$/src/RecommenderPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state relative-caret-position="301">
+          <caret line="265" column="72" selection-start-line="265" selection-start-column="48" selection-end-line="265" selection-end-column="72" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1553436291978" expanded="true" signature="7148:7153" ph="..." />
-            <marker date="1553436291978" expanded="true" signature="7317:7322" ph="..." />
-            <marker date="1553436291978" expanded="true" signature="7797:7802" ph="..." />
-            <marker date="1553436291978" expanded="true" signature="12103:12108" ph="..." />
-            <marker date="1553436291978" expanded="true" signature="12439:13059" ph="..." />
-            <marker date="1553436291978" expanded="true" signature="13353:13358" ph="..." />
+            <marker date="1554989729723" expanded="true" signature="4243:7427" ph="..." />
+            <marker date="1554989729723" expanded="true" signature="7462:7463" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TraitsEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="116" column="51" selection-start-line="115" selection-start-column="8" selection-end-line="116" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenresPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
