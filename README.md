@@ -14,4 +14,26 @@ FelKub = Fellini + Kubrick，谨以此名来表达对个人最喜爱的两名导
 - 导演和主演详情界面，包括基础信息和电影作品的展示。
 
 ### 功能展示
+- 全部电影界面
+![image](screenshots/gifs/all_movies51.gif)
+- 电影标题搜索 + 高级搜索
+![image](screenshots/gifs/search.gif)
+- 电影详情界面
+![image](screenshots/gifs/movie_detail27.gif)
+- 电影推荐功能
+![image](screenshots/gifs/recommendation42.gif)
+- 全部导演界面
+![image](screenshots/gifs/directors22.gif)
+- 全部演员界面
+![image](screenshots/gifs/celebrities39.gif)
+- 影人详情界面
+![image](screenshots/gifs/directors_celeb_detail44.gif)
+- 电影分类界面
+![image](screenshots/gifs/genres17.gif)
+
+
+### 开发平台
+- Qt (PyQt)
+- MongoDB
+
 
