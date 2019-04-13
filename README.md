@@ -14,22 +14,30 @@ FelKub = Fellini + Kubrick，谨以此名来表达对个人最喜爱的两名导
 - 导演和主演详情界面，包括基础信息和电影作品的展示。
 
 ### 功能展示
-- 全部电影界面
+- #####全部电影界面
 ![image](screenshots/gifs/all_movies51.gif)
-- 电影标题搜索 + 高级搜索
+全部电影检索页面支持四种排序根据的升序和降序排列，翻页和首尾页功能齐全。鼠标点击后可以进入详情界面，悬停则可以查看电影的属性。
+- #####电影标题搜索 + 高级搜索
 ![image](screenshots/gifs/search.gif)
-- 电影详情界面
+支持根据电影标题进行模糊搜索，也支持根据其他信息进行高级搜索。
+- #####电影详情界面
 ![image](screenshots/gifs/movie_detail27.gif)
-- 电影推荐功能
+高级搜索包括电影的基础信息和短评。
+- #####电影推荐功能
 ![image](screenshots/gifs/recommendation42.gif)
-- 全部导演界面
+根据电影特征属性、相似的影人和相同的标签与类别进行推荐。
+- #####全部导演界面
 ![image](screenshots/gifs/directors22.gif)
-- 全部演员界面
+全部导演界面支持根据四种属性进行升序和降序排序。
+- #####全部演员界面
 ![image](screenshots/gifs/celebrities39.gif)
-- 影人详情界面
+全部演员界面也支持根据四种属性进行升序和降序排序。
+- #####影人详情界面
 ![image](screenshots/gifs/directors_celeb_detail44.gif)
-- 电影分类界面
+影人详情界面包括基础信息和参加的电影条目信息。
+- #####电影分类界面。
 ![image](screenshots/gifs/genres17.gif)
+包括所有可用的电影分类，点击后会检索此类电影。
 
 
 ### 开发平台
