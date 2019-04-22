@@ -9,7 +9,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FelKubArchive$Main.coverage" NAME="Main Coverage Results" MODIFIED="1555077639770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FelKubArchive$Main.coverage" NAME="Main Coverage Results" MODIFIED="1555857629321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FelKubArchive$DataRenew.coverage" NAME="DataRenew Coverage Results" MODIFIED="1555893456787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/database" />
+    <SUITE FILE_PATH="coverage/FelKubArchive$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1555857248929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main" />
     <SUITE FILE_PATH="coverage/FelKubArchive$DataQuery.coverage" NAME="DataQuery Coverage Results" MODIFIED="1551602764888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FelKubArchive$GenreEditPage.coverage" NAME="GenreEditPage Coverage Results" MODIFIED="1550825102437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FelKubArchive$MoviesArchive.coverage" NAME="MoviesArchive Coverage Results" MODIFIED="1551447797449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -64,13 +66,13 @@
     <session id="-1822659580">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
@@ -78,35 +80,43 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Python Console" value="217" />
+          <entry key="bash" value="30" />
           <entry key="dummy" value="26" />
-          <entry key="md" value="545" />
-          <entry key="py" value="18882" />
+          <entry key="md" value="1446" />
+          <entry key="py" value="19508" />
+          <entry key="sh" value="441" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="545" />
+          <entry key="Bash" value="471" />
+          <entry key="Markdown" value="1446" />
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="18882" />
+          <entry key="Python" value="19725" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
-          <entry key="py" value="33" />
+          <entry key="bat" value="1" />
+          <entry key="md" value="2" />
+          <entry key="py" value="45" />
+          <entry key="sh" value="2" />
           <entry key="spec" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="33" />
+          <entry key="Bash" value="2" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="45" />
         </counts>
       </usages-collector>
     </session>
@@ -114,35 +124,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MoviesArchive.py">
+        <entry file="file://$PROJECT_DIR$/start.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
-              <folding>
-                <element signature="e#15#140#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StarDetailed.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecommenderPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="265" column="72" selection-start-line="265" selection-start-column="48" selection-end-line="265" selection-end-column="72" />
-              <folding>
-                <marker date="1554989729723" expanded="true" signature="4243:7427" ph="..." />
-                <marker date="1554989729723" expanded="true" signature="7462:7463" ph="..." />
-              </folding>
+            <state relative-caret-position="18">
+              <caret line="1" column="142" selection-start-line="1" selection-start-column="142" selection-end-line="1" selection-end-column="142" />
             </state>
           </provider>
         </entry>
@@ -151,8 +136,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="408">
-                <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <first_editor relative-caret-position="234">
+                <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -160,36 +145,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GenresPage.py">
+        <entry file="file://$PROJECT_DIR$/install_dependant_libs.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+            <state relative-caret-position="36">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TraitsEdit.py">
+        <entry file="file://$PROJECT_DIR$/initiate_data.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="116" column="51" selection-start-line="115" selection-start-column="8" selection-end-line="116" selection-end-column="51" />
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataQuery.py">
+        <entry file="file://$PROJECT_DIR$/src/database/DataRenew.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="214">
+              <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <marker date="1554988936843" expanded="true" signature="7147:7152" ph="..." />
-                <marker date="1554988936843" expanded="true" signature="7316:7321" ph="..." />
-                <marker date="1554988936843" expanded="true" signature="7796:7801" ph="..." />
-                <marker date="1554988936843" expanded="true" signature="12102:12107" ph="..." />
-                <marker date="1554988936843" expanded="true" signature="12438:13058" ph="..." />
-                <marker date="1554988936843" expanded="true" signature="13352:13357" ph="..." />
+                <marker date="1555893456361" expanded="true" signature="4145:4424" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/database/ScratchDoulists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="198" selection-start-line="198" selection-end-line="198" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/database/TagsAndGenres.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-546">
+              <caret line="154" column="9" selection-start-line="154" selection-start-column="9" selection-end-line="154" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/database/PicDownloader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2180">
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,35 +213,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StarringPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4428">
-              <caret line="246" column="52" selection-start-line="246" selection-start-column="52" selection-end-line="246" selection-end-column="52" />
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <element signature="e#15#151#0" expanded="true" />
+                <element signature="e#15#68#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DirectorsPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3047">
-              <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
-              <folding>
-                <element signature="e#15#151#0" expanded="true" />
-                <marker date="1554988938299" expanded="true" signature="3713:3722" ph="..." />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/src/recommender/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -270,8 +268,23 @@
         <option value="$PROJECT_DIR$/DataQuery.py" />
         <option value="$PROJECT_DIR$/src/DataQuery.py" />
         <option value="$PROJECT_DIR$/src/MovieDetailed.py" />
-        <option value="$PROJECT_DIR$/src/RecommenderPage.py" />
         <option value="$PROJECT_DIR$/src/GenresPage.py" />
+        <option value="$PROJECT_DIR$/src/RecommenderPage.py" />
+        <option value="$PROJECT_DIR$/src/recommender/RecommenderPage.py" />
+        <option value="$PROJECT_DIR$/src/main/MoviesArchive.py" />
+        <option value="$PROJECT_DIR$/src/database/__init__.py" />
+        <option value="$PROJECT_DIR$/src/main/Main.py" />
+        <option value="$PROJECT_DIR$/src/detail/__init__.py" />
+        <option value="$PROJECT_DIR$/src/recommender/__init__.py" />
+        <option value="$PROJECT_DIR$/datas/mongod.sh" />
+        <option value="$PROJECT_DIR$/src/database/DataRenew.py" />
+        <option value="$PROJECT_DIR$/src/database/TagsAndGenres.py" />
+        <option value="$PROJECT_DIR$/src/database/ScratchDoulists.py" />
+        <option value="$PROJECT_DIR$/src/Main.py" />
+        <option value="$PROJECT_DIR$/initiate_data.bash" />
+        <option value="$PROJECT_DIR$/initiate_data.sh" />
+        <option value="$PROJECT_DIR$/start.sh" />
+        <option value="$PROJECT_DIR$/install_dependant_libs.sh" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -282,7 +295,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="y" value="30" />
     <option name="width" value="697" />
@@ -294,13 +307,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
               <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
+              <item name="datas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
@@ -326,18 +343,19 @@
             <path>
               <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
               <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-              <item name="gifs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FelKubArchive" type="b2602c69:ProjectViewProjectNode" />
               <item name="FelKubArchive" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,12 +367,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\FelKubArchive\src\database" />
       <recent name="D:\PycharmProjects\FelKubArchive\screenshots\gifs" />
       <recent name="D:\PycharmProjects\FelKubArchive\screenshots\videos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\FelKubArchive\screenshots\pic" />
+      <recent name="D:\PycharmProjects\FelKubArchive" />
       <recent name="D:\PycharmProjects\FelKubArchive\src" />
+      <recent name="D:\PycharmProjects\FelKubArchive\src\pages" />
+      <recent name="D:\PycharmProjects\FelKubArchive\src\main" />
+      <recent name="D:\PycharmProjects\FelKubArchive\src\database" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -369,74 +391,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Main">
-    <configuration name="DataQuery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Bash.start.sh">
+    <configuration name="initiate_data.bash" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="FelKubArchive" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="INTERPRETER_PATH" value="D:\cygwin64\bin\bash.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\DataQuery.py" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/initiate_data.bash" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GenreEditPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="initiate_data.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="FelKubArchive" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="INTERPRETER_PATH" value="D:\cygwin64\bin\bash.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\TraitsEdit.py" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/initiate_data.sh" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="install_dependant_libs.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="FelKubArchive" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="INTERPRETER_PATH" value="D:\cygwin64\bin\bash.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\Main.py" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/install_dependant_libs.sh" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MoviesArchive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="start.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="FelKubArchive" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="D:\cygwin64\bin\bash.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataRenew" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FelKubArchive" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -444,12 +440,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/database" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PycharmProjects\FelKubArchive\src\MoviesArchive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/database/DataRenew.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,17 +455,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Main" />
-      <item itemvalue="Python.DataQuery" />
-      <item itemvalue="Python.GenreEditPage" />
-      <item itemvalue="Python.MoviesArchive" />
+      <item itemvalue="Bash.start.sh" />
+      <item itemvalue="Python.DataRenew" />
+      <item itemvalue="Bash.initiate_data.sh" />
+      <item itemvalue="Bash.initiate_data.bash" />
+      <item itemvalue="Bash.install_dependant_libs.sh" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Main" />
-        <item itemvalue="Python.DataQuery" />
-        <item itemvalue="Python.MoviesArchive" />
-        <item itemvalue="Python.GenreEditPage" />
+        <item itemvalue="Bash.start.sh" />
+        <item itemvalue="Bash.install_dependant_libs.sh" />
+        <item itemvalue="Bash.initiate_data.sh" />
+        <item itemvalue="Bash.initiate_data.bash" />
+        <item itemvalue="Python.DataRenew" />
       </list>
     </recent_temporary>
   </component>
@@ -487,14 +485,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="22" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1354009" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32419354" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38064516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,7 +504,7 @@
       <window_info anchor="bottom" id="CSS-X-Fire" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.30806452" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.45322582" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3532258" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -515,12 +514,12 @@
       <window_info anchor="right" id="Database" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15475255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1354009" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20949264" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36451614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,14 +529,14 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="CSS-X-Fire" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.16774194" />
-      <window_info anchor="bottom" id="Python Console" order="13" weight="0.45322582" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30806452" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3532258" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="6" />
     </layout-to-restore>
   </component>
@@ -565,7 +564,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled.ui" />
     <entry file="file://$PROJECT_DIR$/untitled.py" />
-    <entry file="file://$PROJECT_DIR$/src/AdvancedSearch.py">
+    <entry file="file://$PROJECT_DIR$/src/pages/AdvancedSearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="715">
           <caret line="161" column="53" selection-start-line="161" selection-start-column="53" selection-end-line="161" selection-end-column="53" />
@@ -575,129 +574,180 @@
     <entry file="file://$PROJECT_DIR$/Main.spec">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MovieDetailed.py">
+    <entry file="file://$PROJECT_DIR$/src/detail/MovieDetailed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3258">
           <caret line="189" selection-start-line="189" selection-end-line="189" />
-          <folding>
-            <element signature="e#15#131#0" expanded="true" />
-            <marker date="1554989399337" expanded="true" signature="13341:13843" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectorDetailed.py">
+    <entry file="file://$PROJECT_DIR$/src/detail/DirectorDetailed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1278">
           <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#103#0" expanded="true" />
-            <marker date="1554988939023" expanded="true" signature="263:264" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoviesPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="77" column="59" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="59" />
-          <folding>
-            <element signature="e#15#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoviesArchive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
-          <folding>
-            <element signature="e#15#140#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StarDetailed.py">
+    <entry file="file://$PROJECT_DIR$/src/detail/StarDetailed.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataQuery.py">
+    <entry file="file://$PROJECT_DIR$/src/pages/GenresPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recommender/TraitsEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="115" column="51" selection-start-line="114" selection-start-column="8" selection-end-line="115" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/DataQuery.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/StarringPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4338">
+          <caret line="246" column="52" selection-start-line="246" selection-start-column="52" selection-end-line="246" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/DirectorsPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5598">
+          <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recommender/RecommenderPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="265" column="72" selection-start-line="265" selection-start-column="48" selection-end-line="265" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoviesArchive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/MoviesPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="e#15#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/detail/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recommender/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/TagsAndGenres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="154" column="9" selection-start-line="154" selection-start-column="9" selection-end-line="154" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/PicDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2180">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/DoulistCrawler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/DataRenew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <marker date="1554988936843" expanded="true" signature="7147:7152" ph="..." />
-            <marker date="1554988936843" expanded="true" signature="7316:7321" ph="..." />
-            <marker date="1554988936843" expanded="true" signature="7796:7801" ph="..." />
-            <marker date="1554988936843" expanded="true" signature="12102:12107" ph="..." />
-            <marker date="1554988936843" expanded="true" signature="12438:13058" ph="..." />
-            <marker date="1554988936843" expanded="true" signature="13352:13357" ph="..." />
+            <marker date="1555893456361" expanded="true" signature="4145:4424" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StarringPage.py">
+    <entry file="file://$PROJECT_DIR$/src/database/ScratchDoulists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4428">
-          <caret line="246" column="52" selection-start-line="246" selection-start-column="52" selection-end-line="246" selection-end-column="52" />
+        <state relative-caret-position="216">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
           <folding>
-            <element signature="e#15#151#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DirectorsPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3047">
-          <caret line="316" column="37" selection-start-line="316" selection-start-column="37" selection-end-line="316" selection-end-column="37" />
-          <folding>
-            <element signature="e#15#151#0" expanded="true" />
-            <marker date="1554988938299" expanded="true" signature="3713:3722" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecommenderPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="265" column="72" selection-start-line="265" selection-start-column="48" selection-end-line="265" selection-end-column="72" />
-          <folding>
-            <marker date="1554989729723" expanded="true" signature="4243:7427" ph="..." />
-            <marker date="1554989729723" expanded="true" signature="7462:7463" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TraitsEdit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="116" column="51" selection-start-line="115" selection-start-column="8" selection-end-line="116" selection-end-column="51" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="59" />
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#15#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GenresPage.py">
+    <entry file="file://$PROJECT_DIR$/initiate_data.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install_dependant_libs.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="142" selection-start-line="1" selection-start-column="142" selection-end-line="1" selection-end-column="142" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
-            <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <first_editor relative-caret-position="234">
+            <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>

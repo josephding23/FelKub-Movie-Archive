@@ -2,6 +2,12 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.QtGui import QIcon
 import sys
+import os
+
+curPath = os.path.abspath(os.path.dirname(__file__))
+rootPath = os.path.split(curPath)[0]
+sys.path.append(rootPath)
+
 from src.MoviesArchive import MoviesArchive
 
 class FelKub(QMainWindow):

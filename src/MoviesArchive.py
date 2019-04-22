@@ -1,13 +1,13 @@
 # coding=utf-8
 from PyQt5.QtWidgets import QMainWindow, QApplication, QWidget, QFrame, QVBoxLayout, QHBoxLayout, QPushButton, QDesktopWidget
-from PyQt5.QtGui import QFont, QIcon, QCursor
+from PyQt5.QtGui import QFont, QCursor
 from PyQt5.QtCore import Qt
-from src.DataQuery import get_movies_info, get_directors_info, get_sorted_genres_info, get_starring_info
-from src.MoviesPage import MoviesDisplay
-from src.GenresPage import GenresDisplay
-from src.DirectorsPage import DirectorsDisplay
-from src.StarringPage import StarsDisplay
-from src.AdvancedSearch import AdvancedSearch
+from src.database.DataQuery import get_movies_info, get_directors_info, get_sorted_genres_info, get_starring_info
+from src.pages.MoviesPage import MoviesDisplay
+from src.pages.GenresPage import GenresDisplay
+from src.pages.DirectorsPage import DirectorsDisplay
+from src.pages.StarringPage import StarsDisplay
+from src.pages.AdvancedSearch import AdvancedSearch
 import sys
 
 class MoviesArchive(QWidget):
