@@ -31,6 +31,7 @@ that it will work.*
 - 支持对于电影特征的修改和查询；
 - 所有导演和主演条目的检索，支持根据平均评分、平均观看人数、总观看人数、平均活跃时期进行降序或生序排列；
 - 导演和主演详情界面，包括基础信息和电影作品的展示。
+- 爬虫的代码在src/data中，可以并希望您进行及时的数据更新。
 
 - *Retrieving all movie items, and supports sorting by Year, Rating on Douban, Number of People who have watched, Length in descending or ascending order.*
 - *Basic fuzzy search on movie title and advanced search, which supports searching by Year, Rating and Length.*
@@ -39,6 +40,7 @@ that it will work.*
 - *Display on genres and retrieving movies by different genres.*
 - *Retrieving all directors and actors who have starred in some films, and support sorting them by average rating, average watched number, watched number in total, average active years in descending or ascending order.*
 - *Detail pages of directors and stars, including basic info and display on their works.*
+- *Web crawlers are in src/data, timely updating of data are supported and highly recommended.*
 
 ## 功能展示 *Displays*
 ### 电影检索界面 *Movies Retrieval*
@@ -73,6 +75,9 @@ that it will work.*
 ![image](screenshots/gifs/genres17.gif)
 - 包括所有可用的电影分类，点击后会检索此类电影。
 - Include all available genres, and could retrieve movies of some particular genre on click.
+
+感谢使用！
+Thanks for using!
 
 
 
